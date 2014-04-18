@@ -1,0 +1,15 @@
+/* CSS Document */
+body
+{
+	margin-left:5%;
+	margin-right:5%;
+}
+.header
+{
+	height:auto;
+	border-bottom:1px solid #CCCCCC;
+}
+.main
+{
+	height:auto;
+}
